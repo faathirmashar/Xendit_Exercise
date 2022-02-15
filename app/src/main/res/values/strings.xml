@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Xendit Exercise</string>
+    <string name="email_hint">nama@email.com</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Masuk</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="login_with_phone_number">dengan nomor telepon</string>
+    <string name="title_for_login_activity">Masuk</string>
+    <string name="label_forget_password">Lupa password?</string>
+    <string name="reset_password">Reset password</string>
+    <string name="button_back">Tombol Kembali</string>
+    <string name="item_home">Beranda</string>
+    <string name="item_account">Akun</string>
+    <string name="place_order">Buat Order</string>
+    <string name="button_place_order">Tombol Buat Order</string>
+    <string name="user_id">ID : %1$d</string>
+    <string name="user_email">Email : %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
